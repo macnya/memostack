@@ -1,6 +1,6 @@
 MemoStack - Summer Memories Gallery
 
-MemoStack is a lively and engaging web app that enables users to collect, upload, and disseminate their most cherished recollections of summer. Be it a seaside sojourn, a journey by automobile across this great land, or an assembly of pals, MemoStack provides a whimsical and delightful platform for enshrining such golden moments. Its playful and vibrant design, nostalgic yet modern, invites the user to explore warm palettes, animations that catch the eye without being distracting, and an interface that one old-timer (and memo- stacker) found intuitive.
+MemoStack is a lively and engaging web app that enables users to collect, upload, and disseminate their most cherished recollections of summer. Be it a seaside sojourn, a journey by automobile across this great land, or an assembly of pals, MemoStack provides a whimsical and delightful platform for enshrining such golden moments. Its playful and vibrant design, nostalgic yet modern, invites the user to explore warm palettes, animations that catch the eye without being distracting, and an interface that one old-timer (and memo-stacker) found intuitive.
 
 Key Features
 
