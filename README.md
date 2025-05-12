@@ -21,7 +21,7 @@ Users can easily manage their profiles, and with a simple click of the sign-out 
 
 How to Run the App
 Clone the repository:
-    git clone https://github.com/yourusername/memostack.git
+    git clone https://github.com/ymacnya/memostack.git
 
 Install dependencies:
     npm install
@@ -29,7 +29,7 @@ Install dependencies:
 Start the app:
     npm run dev
 
-Visit http://localhost:3000 to start using the app!
+Visit http://localhost:5173 to start using the app!
 
 Conclusion
 MemoStack is more than just a gallery—it’s a space for users to document, celebrate, and cherish their summer memories in a fun, accessible, and visually stunning environment. Whether you’re sharing photos with friends or revisiting cherished moments, MemoStack offers a delightful way to keep summer alive all year round.
