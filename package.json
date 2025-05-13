@@ -2,7 +2,7 @@
   "name": "memostack",
   "private": true,
   "version": "0.0.0",
-  "repository": {         
+  "repository": {
     "type": "git",
     "url": "https://github.com/macnya/memostack.git"
   },

@@ -1,13 +1,16 @@
-// src/components/GoogleSignIn.jsx
 import React from 'react'
 import { GoogleAuthProvider, signInWithPopup } from 'firebase/auth'
 import { auth } from '../services/firebase'
+import { useNavigate } from 'react-router-dom'
 
 const GoogleSignIn = () => {
+  const navigate = useNavigate()
+
   const handleLogin = async () => {
     try {
       const provider = new GoogleAuthProvider()
       await signInWithPopup(auth, provider)
+      navigate('/upload')
     } catch (err) {
       console.error('Login error', err)
     }
